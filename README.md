@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,idea,py,java,html,ocaml,octave,r,linux" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,html,ocaml,octave,r,linux" />
   </a>
 </p>
 
