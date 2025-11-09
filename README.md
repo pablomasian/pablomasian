@@ -39,6 +39,11 @@ alt="GitHub" /></a>
 <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="45" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git" height="45" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text" height="45" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=md" title="Markdown" height="45" style="margin:10px"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" height="45" style="margin:10px"/>
+
 </p>
 
 ---
