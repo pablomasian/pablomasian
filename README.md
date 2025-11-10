@@ -80,4 +80,4 @@ alt="GitHub" /></a>
 <small>I enjoy trying out many different tools from circuit simulators to functional programming languages </small>
 </p>
 
-<p align="center">🏄🏻  _     🏄🏻  _     🏄🏻</p>
+<p align="center">🏄🏻      🏄🏻      🏄🏻</p>
