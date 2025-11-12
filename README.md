@@ -68,7 +68,6 @@ alt="GitHub" /></a>
 <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="45" style="margin:10px"/>
 <br>
 <img src="https://skillicons.dev/icons?i=vim" title="Vim" height="45" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=md" title="Markdown" height="45" style="margin:10px"/>
 </p>
