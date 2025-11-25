@@ -53,19 +53,13 @@ alt="GitHub" /></a>
 <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=maven" title="Maven" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=npm" title="NPM" height="45" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=git" title="Git" height="45" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="45" style="margin:10px"/>
 <br>
 <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="45" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" height="45" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" height="45" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=clion" title="CLion" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="45" style="margin:10px"/>
-<img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="45" style="margin:10px"/>
 <br>
 <img src="https://skillicons.dev/icons?i=vim" title="Vim" height="45" style="margin:10px"/>
 <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" height="45" style="margin:10px"/>
