@@ -9,7 +9,6 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://instagram.com/_pablomasian" target="_blank"><img src="https://img.shields.io/badge/Instagram-_pablomasian-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/pablomasiancarro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pablo-blue?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn" /></a>
 </p>
